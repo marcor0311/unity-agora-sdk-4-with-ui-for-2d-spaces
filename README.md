@@ -20,7 +20,7 @@ Before getting started, make sure you have the following:
 
 ### 2. Integrate Video SDK:
 
-- Download the latest Agora Video SDK for Unity from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/video/agora-video-sdk-for-unity-134502).
+- Add to your assets the latest Agora Video SDK for Unity from the [Unity Asset Store](https://assetstore.unity.com/packages/tools/video/agora-video-sdk-for-unity-134502).
 - In Unity, go to "Window" > "Package Manager" > "My Assets."
 - Find the Agora Video SDK, click "Download," and then "Import."
 
