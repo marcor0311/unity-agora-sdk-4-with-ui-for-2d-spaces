@@ -51,6 +51,7 @@ For your Unity game, you'll need to create a user interface with local and remot
 ### 3. Script
 
 The script is in this repository in "Code" > AgoraUnityUI.cs 
+
 Simply add it to the canvas as a Component.
 It is important that using your Agora Account you create an Agora project and fill these with the values generated in the Agora console.
 ```
