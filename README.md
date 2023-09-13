@@ -50,9 +50,16 @@ For your Unity game, you'll need to create a user interface with local and remot
 
 ### 3. Script
 
-The script is in this repository in "Code" > AgoraUnityUI.cs
-
-Simply add it to the canvas as a Component.
+The script is in this repository in "Code" > AgoraUnityUI.cs Simply add it to the canvas as a Component.
+It is important that using your Agora Account you create an Agora project and fill these with the values generated in the Agora console.
+```
+// Fill in your app ID.
+private string _appID = "";
+// Fill in your channel name.
+private string _channelName = "";
+// Fill in the temporary token you obtained from Agora Console.
+private string _token = "";
+```
 
 This user interface setup enables you to display local and remote video streams and control video calling interactions in your Unity game. The "LocalView" displays the local user's video, while the "RemoteView" shows the external user's video.
 
