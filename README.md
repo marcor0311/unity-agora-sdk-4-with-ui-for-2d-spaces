@@ -64,7 +64,3 @@ private string _token = "";
 ```
 
 This user interface setup enables you to display local and remote video streams and control video calling interactions in your Unity game. The "LocalView" displays the local user's video, while the "RemoteView" shows the external user's video.
-
-Follow these steps to create an engaging 2D space with real-time communication capabilities for your Unity project.
-
-
