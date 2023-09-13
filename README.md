@@ -8,6 +8,7 @@ Before getting started, make sure you have the following:
 
 - Unity 2021.3.5f1 installed.
 - Agora Video SDK for Unity 4.2.2.
+- Agora Account
 
 ## Project Setup
 
