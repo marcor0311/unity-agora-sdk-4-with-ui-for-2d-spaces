@@ -44,6 +44,7 @@ For your Unity game, you'll need to create a user interface with local and remot
 - Create a Raw Image for the local video by right-clicking the "Canvas," choosing "UI," and selecting "Raw Image."
 - Rename it to "LocalView" and adjust its position and size (Pos X: -250, Pos Y: 0, Width: 250, Height: 250).
 - Create another Raw Image for the remote video named "RemoteView" and position it accordingly (Pos X: 250, Pos Y: 0, Width: 250, Height: 250).
+
 ![canvas](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces/assets/110083517/8a85b97e-d4eb-4ff7-a826-d034be056d2f)
 ![UIAgora](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces/assets/110083517/14f70932-7a0e-42a4-bcd8-4123556092fb)
 
