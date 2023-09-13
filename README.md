@@ -65,3 +65,6 @@ private string _token = "";
 
 This user interface setup enables you to display local and remote video streams and control video calling interactions in your Unity game. The "LocalView" displays the local user's video, while the "RemoteView" shows the external user's video.
 ![Webcam-2023-09-12-22-19-16](https://github.com/marcor0311/unity-agora-sdk-4-with-ui-for-2d-spaces/assets/110083517/f989fece-ce30-42e3-bbf8-2e002c1ce222)
+
+
+Return to the main repository: [Unity Essentials Repository](https://github.com/marcor0311/Unity-Essentials)
